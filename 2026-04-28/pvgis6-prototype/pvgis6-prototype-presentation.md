@@ -87,6 +87,11 @@ Every location (==pixel) processing :
 
 - Modular
 - As possible self-contained
+
+![PVGIS 6 Architecture](images/pvgis6_architecture_graph.jpg)
+
+![PVGIS 6 Architecture](images/pvgis6_architecture_graph_III.jpg)
+
 - Show the code...
 
 ## For whom is PVGIS 6 ?
