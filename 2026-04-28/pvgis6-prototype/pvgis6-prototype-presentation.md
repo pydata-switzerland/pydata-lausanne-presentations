@@ -43,6 +43,19 @@ _requires at least 3x increased installed PV capacity_
 
 ## What is PVGIS _6_ ?
 
+> * The official repository seems to be empty at the moment ! See :
+>   https://code.europa.eu/pvgis/pvgis/
+
+See : 
+
+- https://gitlab.com/NikosAlexandris/pvgis-prototype-reimport
+
+- https://github.com/NikosAlexandris/pvgis-prototype
+
+- Documentation DRAFT : https://pvgis-prototype-6492ef.gitlab.io/
+
+
+
 ## Development
 
 - Show a _Gource_ animation
